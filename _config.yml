@@ -1,18 +1,18 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "My Travel blog"
+author: "Rent Connected"
+description: "Rent Connected ให้คุณท่องเที่ยว เดินทางได้ง่ายขึ้น" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+email: "hello@rentconnected.com"
+# twitter_username: "rentconnected"
+# github_username: "githubuser"
+linkedin_username: "@rentconnected"
+facebook_username: "rentconnected"
 #flickr_username: username
-#instagram_username: username
+instagram_username: "rentconnected"
 #pinterest_username: username
-#youtube_username: username
+youtube_username: "@rentconnected"
 #googleplus_username: +username
 
 #########################################################################################
